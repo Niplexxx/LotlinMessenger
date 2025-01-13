@@ -20,4 +20,4 @@
 ### 1. Клонирование репозитория
 Склонируйте репозиторий в вашу локальную среду:
 ```bash
-git clone <URL репозитория>
+git clone <https://github.com/Nipplexxx/Niksey/tree/master>
